@@ -9,6 +9,13 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and become a good Front-End Developer.
 - ⚡ Fun fact: I love to play Football and Cricket and I am a Ronaldo and Manchester United fan and I love listening to rock and light music.
 
+
+<p align="center"> 
+  Visitor No.<br>
+  <img src="https://profile-counter.glitch.me/gamitej/count.svg" />
+</p>
+
+
 ### Connect with me:
 
 [<img align="left" alt="gamitej | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -35,11 +42,6 @@
 <br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<p align="center"> 
-  Visitor No.<br>
-  <img src="https://profile-counter.glitch.me/anupamhaldkar/count.svg" />
-</p>
 
 <br/>
 
