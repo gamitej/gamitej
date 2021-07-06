@@ -1,4 +1,4 @@
-### Hi there, I'm Amitej Pratap Singh - aka [gamitej] 👋
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>, I'm Amitej Pratap Singh 
 
 
 ## I'm a novice Front-End Developer from India
@@ -28,5 +28,9 @@
 
 <br />
 <br />
+
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=gamitej&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/gamitej/github-readme-stats)
+
+<br/>
 
 [linkedin]: https://www.linkedin.com/in/amitej-pratap-singh-a53414192/
