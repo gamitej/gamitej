@@ -10,11 +10,11 @@
 - ⚡ Fun fact: I love to play Football and Cricket and I am a Ronaldo and Manchester United fan and I love listening to rock and light music.
 
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor No.<br>
   <img src="https://profile-counter.glitch.me/gamitej/count.svg" />
 </p>
-
+ -->
 
 ### Connect with me:
 
