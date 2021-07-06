@@ -1,4 +1,5 @@
-### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>, I'm Amitej Pratap Singh 
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 
+### I'm Amitej Pratap Singh aka [gamitej]
 
 
 ## I'm a novice Front-End Developer from India
@@ -30,6 +31,15 @@
 <br />
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=gamitej&show_icons=true&&cache_seconds=86400&theme=radical)](https://github.com/gamitej/github-readme-stats)
+
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<p align="center"> 
+  Visitor No.<br>
+  <img src="https://profile-counter.glitch.me/anupamhaldkar/count.svg" />
+</p>
 
 <br/>
 
