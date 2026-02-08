@@ -1,12 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2> 
 ### I'm Amitej Pratap Singh aka [gamitej]
 
-
-## I'm a novice Front-End Developer from India
+## I'm a Senior Software Developer from India
 
 - 🔭 I just completed my B.Tech degree in Computer Science and Engineering from LNCT Bhopal (M.P), India.
-- 🌱 I’m currently learning ReactJs  and React-Native.
-- 🥅 2021 Goals: Contribute more to Open Source projects and become a good Front-End Developer.
+- 🌱 I’m currently learning ReactJs, NodeJs & Fast-API.
 - ⚡ Fun fact: I love to play Football and Cricket and I am a Ronaldo and Manchester United fan and I love listening to rock and light music.
 
 
